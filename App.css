@@ -1,0 +1,62 @@
+/* Background color of the page */
+.page {
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: rgb(160, 133, 138);
+  }
+  
+  /* Style for the box containing the form */
+  .box {
+    background-color: rgb(73, 154, 73); 
+    padding: 20px;opacity: rgb(160, 133, 138);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(139, 110, 110, 0.1);
+    width: 300px;
+    
+    border: 1px solid #ddd; /* Optional: adds a light border to make the box more defined */
+  }
+  
+  /* Style for each input group */
+  .inputGroup {
+    margin-bottom: 15px;
+  }
+  
+  /* Style for labels */
+  label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  /* Style for inputs and select elements */
+  input[type="text"],
+  textarea,
+  select {
+    width: 100%;
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    font-size: 14px;
+    opacity: rgb(160, 133, 138);
+  }
+  
+  /* Style for the textarea */
+  textarea {
+    height: 10px;
+    resize: vertical;
+    opacity: rgb(160, 133, 138);
+  }
+  
+  /* Style for checkboxes */
+  input[type="checkbox"] {
+    margin-left: 10px;
+    opacity: rgb(160, 133, 138);
+  }
+  body {
+    background-image: url(https://www.nobroker.in/blog/wp-content/uploads/2022/09/3d-wallpaper-for-bedrooms.jpg);
+    opacity: inherit;
+    }
+  
